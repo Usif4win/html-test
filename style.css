@@ -1,4 +1,4 @@
-* {outline: x solid red;}
+* {outline: px solid red;}
 nav{
   display:flex;
   justify-content: space-around;
@@ -139,27 +139,22 @@ height: auto;}
   display: flex;
   flex-direction: column;
   align-items: center;
-  margin-top: 70px;
+  margin-top: 70gtpx;
   margin-left: 53px;
 
 }
-
-
 
 .ass {height: auto;
 width: 200px;
 }
 
-.scnd {height: auto;
-width: 200px;
-}
 
 .main {  display: flex;
   flex-direction: row;
   align-items: center;
 }
 
-.yes {  display: flex;
+.yes  {  display: flex;
   flex-direction: row;
   align-items: center;
 }
